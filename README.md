@@ -6,7 +6,10 @@
 
 ### Cвязаться со мной: 📫
 
-[![image](https://github.com/StMelik/StMelik/raw/main/icon/email-icon.png)](tts2204@mail.ru)
+<a href="tts2204@mail.ru">
+	<img src="https://github.com/StMelik/StMelik/raw/main/icon/email-icon.png" alt="email-icon"/>
+</a>
+<!-- [![image](https://github.com/StMelik/StMelik/raw/main/icon/email-icon.png)](tts2204@mail.ru) -->
 
 [![image](https://github.com/StMelik/StMelik/raw/main/icon/telegram-icon.png)](https://t.me/tatukanova)
 

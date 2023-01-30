@@ -6,7 +6,7 @@
 
 ### Cвязаться со мной: 📫
 
-**Email:** (tts2204@mail.ru),
+[Email](tts2204@mail.ru),
 
 **[![image](https://user-images.githubusercontent.com/98208790/215103394-876479f2-3d1b-4c4a-b989-f8d3964dbe80.png)](https://t.me/tatukanova)**
 
